@@ -34,7 +34,7 @@
   },
   "license": "Apache-2.0",
   "peerDependencies": {
-    "@hot-loader/react-dom": "^16.8.2",
+    "@hot-loader/react-dom": "^17.0.0",
     "prop-types": "^15.5.8",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@fortawesome/fontawesome-pro": "^5.10.2",
-    "@hot-loader/react-dom": "^16.8.2",
+    "@hot-loader/react-dom": "^17.0.0",
     "autoprefixer": "^9.4.6",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
